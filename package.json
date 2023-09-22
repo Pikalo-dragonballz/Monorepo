@@ -1,0 +1,9 @@
+{
+  "name": "Monorepo-playground",
+  "version": "1.0.0",
+  "description": "This is an example",
+  "workspaces": [
+    "packages/*"
+  ],
+  "private": true
+}
